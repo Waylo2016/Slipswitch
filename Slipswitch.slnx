@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Slipswitch.Linux/Slipswitch.Linux.csproj" />
+  <Project Path="Slipswitch/Slipswitch.csproj" />
+</Solution>

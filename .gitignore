@@ -43,6 +43,9 @@ ScaffoldingReadMe.txt
 ~$*
 *~
 CodeCoverage/
+.idea
+.editorconfig
+Slipswitch.sln.DotSettings.user
 
 # MSBuild Binary and Structured Log
 *.binlog
