@@ -1,7 +1,10 @@
 ﻿@page "/"
+@using DP.Blazor.MapLibre
 
-<MudContainer>
-    <MudText Typo="Typo.h1">Hello, world!</MudText>
-    <MudText>Welcome to your new app.</MudText>
-</MudContainer>
+<MapLibre Height="100dvh" Options="@_mapOptions"/>
+
+@code{
+    private readonly MapOptions _mapOptions = new();
+
+}
 

@@ -59,6 +59,7 @@
     </ItemGroup>
 
     <ItemGroup>
+        <PackageReference Include="DP.Blazor.MapLibre" Version="2.1.1" />
         <PackageReference Include="Microsoft.Maui.Controls" Version="10.0.120" />
         <PackageReference Include="Microsoft.AspNetCore.Components.WebView.Maui" Version="10.0.120" />
         <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="10.0.0" />
